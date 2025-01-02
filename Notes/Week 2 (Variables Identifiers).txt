@@ -1,0 +1,20 @@
+IDENTIFIERS
+
+How to name Identifiers
+
+- Diferencia Mayúsculas de Minúsculas.
+- Solo puede tener letras, números y guiones bajos.
+- No puede empezar con un número. 
+- No puede ser igual a las palabras reservadas de phyton. 
+
+Para hacer comentarios se emplea "#" solo al principio de la oración.
+
+VARIABLES
+TYPE
+
+int (integer) --> número entero
+float (float) --> número con decimal 
+str (string) 
+bool (boolean) --> true or false
+
+Input siempre ingresa un str en el código.

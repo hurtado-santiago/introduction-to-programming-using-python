@@ -1,0 +1,5 @@
+Se pueden hacer bucles anidados dos for o dos 
+while o combinados, no genera error. 
+
+Description Functions 
+https://docs.python.org/3/library/functions.html

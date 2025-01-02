@@ -1,0 +1,26 @@
+* --> multiplication
+-7 --> (minus)Unary Operator
+7-5 --> (minus)Binary Operator
+
+TYPES
+- Mathematical
+	+, -, *, /, **, %, //
+
+- Relational
+	<, <=, >, >=, !=, ==	
+
+- Logical
+	or, and, not
+
+- Bitwise
+	| (OR), & (AND), ^ (XOR), ~, <<, >>
+
+- Membership
+	in, not in
+
+- Identity
+	is, is not
+
+La siguiente(s) línea despues del condicional IF
+debe llevar tabulacion o sino queda por fuera
+del condicional. 
